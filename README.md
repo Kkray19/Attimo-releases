@@ -5,11 +5,11 @@ notch. Attimo was formerly called Oriel and, before that, LocalNook.
 
 This repository holds only the release downloads and their notes. Attimo's source code is not published here.
 
-**No release has been published here yet.** When the first one is, it will be listed under Releases.
+**The first release is Attimo 0.1.0 beta**, for invited testers in the United States (not a full release): https://github.com/Kkray19/Attimo-releases/releases/tag/v0.1.0. It is for the Mac only; Attimo Companion for the iPhone is not out yet.
 
 ## Download
 
-Each release will have two files:
+Each release has two files:
 
 - `Attimo-<version>.dmg`: open it and drag Attimo to Applications.
 - `Attimo-<version>.zip`: the same app, used by Attimo's built-in updater.
@@ -19,7 +19,7 @@ Each release will have two files:
 Oriel does not update itself to Attimo: install Attimo by hand, once. The first time it opens, Attimo brings
 over Oriel's settings, files and saved keys. macOS treats Attimo as a new app, so a few things are done once
 more (permissions, the fan helper, the Claude Code and Codex links, the iPhone pairing); Settings ▸ About ▸
-Coming from Oriel lists them. Keep Oriel until Attimo works for you.
+Coming from Oriel lists them. Back up Oriel's folder first (the release notes give the two commands), and keep Oriel until Attimo works for you.
 
 Earlier Oriel releases stay at https://github.com/Kkray19/Oriel-releases.
 
